@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-Demo available here [https://meatspincom.github.io/kawaii-frontpage/](here).
+Demo available [here](http://meatspincom.github.io/kawaii-frontpage).
 
 ## Available Scripts
 
