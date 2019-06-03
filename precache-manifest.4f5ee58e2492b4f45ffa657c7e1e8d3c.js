@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e418f1c8dfe79e896966fe278d750dc",
+    "revision": "b43a49c658b007f28c57ed1b08b9afbb",
     "url": "/kawaii-frontpage/index.html"
   },
   {

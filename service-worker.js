@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kawaii-frontpage/precache-manifest.4455c10813eded7455f06167cf985247.js"
+  "/kawaii-frontpage/precache-manifest.4f5ee58e2492b4f45ffa657c7e1e8d3c.js"
 );
 
 self.addEventListener('message', (event) => {
